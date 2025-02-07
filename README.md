@@ -1,4 +1,4 @@
-# 📞 Contact App
+# 📞 Platform Converter App
 
 ## Overview
 A Flutter-based contact management app with platform-specific UI for iOS and Android. The app allows users to switch between iOS and Android views through the settings. It supports dark and light modes, hidden contacts, and fingerprint lock for securing contact details.
@@ -60,17 +60,11 @@ Emulator or real device for testing
 ![Switch](ScreenShots/switch_android.jpg)
 ![Switch](ScreenShots/switch_ios.jpg)
 
-📥 APK Download
-Download the latest APK
+
 
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss your proposal.
 
-📜 License
-This project is licensed under the MIT License.
 
-vbnet
-Copy
-Edit
 
 You can copy and paste this into a `README.md` file in your project. It’s styled for readabil
